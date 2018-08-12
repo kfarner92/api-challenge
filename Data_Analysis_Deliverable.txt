@@ -1,0 +1,5 @@
+1) It appears that the majority of the 750 cities between 40 and 60 degrees latitude.
+
+2) There is a very little correlation between latitude and cloudiness
+
+3) Humidity starts o fluctuate as the cities get away from 40-50 degrees latitude
